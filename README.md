@@ -1,8 +1,8 @@
 # Space-2023
 # Jwst Echoes
 ## Visualising universe through sound
-
-
+## Link to project
+https://github.com/Space-Ubermensch/space-2023/tree/main/audiolazy
 Jwst Echoes is an web-app that enables you to upload an image and convert the image data into musical notes which be represented by various musical instruments.
 
 Jwst Echoes aims to widen our sense of perception of the universe through the use of sounds. With the belief that expressing information through the medium of various musical instruments would make our universe more accessible for everyone,  Jwst Echoes provides users with an opportunity to experience, say, what an image of Orion Nebula sounds when played with a piano, M87 black hole sounds with a harp, and many more. We  achieved this by mapping discrete data points from our images into musical notes, and provided users with an opportunity to play these musical notes in a specific instrument. Through a convenient web application, users can now Jwst Enjoy the melodies of our vast and beautiful universe.
